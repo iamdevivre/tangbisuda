@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin>
+  <information>
+    <name>탕비수다 이마고</name>
+    <version>4.0.4</version>
+    <description>
+      <![CDATA[ 탕비수다 이마고는 이미지를 활용해 다양한 기능을 제공합니다. ]]>
+    </description>
+    <license>
+      <![CDATA[ 유료 스킨으로 구매 후 사용할 수 있습니다. 구매 전 체험이 가능하며 기간은 일주일입니다. 이후 계속 사용하려면 반드시 구매해야합니다. ]]>
+    </license>
+  </information>
+  <author>
+    <name>롤랑존</name>
+    <homepage>http://tangbisuda.tistory.com</homepage>
+    <email>photobit@tistory.com</email>
+  </author>
+  <default>
+    <recentEntries>5</recentEntries>
+    <recentComments>5</recentComments>
+    <recentTrackbacks>5</recentTrackbacks>
+    <itemsOnGuestbook>5</itemsOnGuestbook>
+    <tagsInCloud>30</tagsInCloud>
+    <sortInCloud>1</sortInCloud>
+    <expandComment>1</expandComment>
+    <expandTrackback>0</expandTrackback>
+    <lengthOfRecentNotice>40</lengthOfRecentNotice>
+    <lengthOfRecentEntry>40</lengthOfRecentEntry>
+    <lengthOfRecentComment>40</lengthOfRecentComment>
+    <lengthOfRecentTrackback>40</lengthOfRecentTrackback>
+    <lengthOfLink>40</lengthOfLink>
+    <showListOnCategory>1</showListOnCategory>
+    <showListOnArchive>1</showListOnArchive>
+    <commentMessage>
+      <none>0</none>
+      <single>1</single>
+    </commentMessage>
+    <trackbackMessage>
+      <none>0</none>
+      <single>1</single>
+    </trackbackMessage>
+    <tree>
+      <color>000000</color>
+      <bgColor>ffffff</bgColor>
+      <activeColor>000000</activeColor>
+      <activeBgColor>ffffff</activeBgColor>
+      <labelLength>40</labelLength>
+      <showValue>0</showValue>
+    </tree>
+    <contentWidth>830</contentWidth>
+  </default>
+</skin>
