@@ -1,0 +1,20 @@
+/*
+* Noto Sans KR (Korean)
+* 라이선스: SIL Open Font License, 1.1
+* 라이선스 원문: http://fonts.gstatic.com/ea/notosanskr/v2/OFL.txt
+ */
+@charset "utf-8";
+@font-face {
+    font-family: 'Tang Bisuda WebFont';
+    src: url(//i1.daumcdn.net/cfs.tistory/static/font/notokr-regular.woff2) format('woff2'),
+    url(//i1.daumcdn.net/cfs.tistory/static/font/notokr-regular.woff) format('woff');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Tang Bisuda WebFont';
+    src: url(//i1.daumcdn.net/cfs.tistory/static/font/notokr-bold.woff2) format('woff2'),
+    url(//i1.daumcdn.net/cfs.tistory/static/font/notokr-bold.woff) format('woff');
+    font-style: normal;
+    font-weight: bold;
+}
